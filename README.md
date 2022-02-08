@@ -92,3 +92,13 @@ Recursively splits image and applys thresholding to a local segment of the image
 <img src="./Lab8/Highlights/output1.png" alt="Equation" style="width:800px;">
 <img src="./Lab8/Highlights/output2.png" alt="Equation" style="width:800px;">
 </div>
+
+## Lab 9 - Texture
+
+Got the GLCM of an image an used it to classify fabrics according to homogenity and contrast
+
+<div align="center">
+<img src="./Lab9/Highlights/input.png" alt="Equation" style="width:800px;">
+<img src="./Lab9/Highlights/graph.png" alt="Equation" style="width:800px;">
+<img src="./Lab9/Highlights/output.png" alt="Equation" style="width:800px;">
+</div>
