@@ -95,7 +95,9 @@ Recursively splits image and applys thresholding to a local segment of the image
 
 ## Lab 9 - Texture
 
-Got the GLCM of an image an used it to classify fabrics according to homogenity and contrast, and computed the Local Binary Pattern of an image
+Got the GLCM of an image an used it to classify fabrics according to homogenity and contrast, and computed the Local Binary Pattern of an image.
+
+The images below show how we used thresholding on the **homogeneity** and **contrast** to determine if a patch in the  image is jeans, cotton, or background.
 
 <div align="center">
 <img src="./Lab9/Highlights/input.png" alt="Equation" style="width:150px;">
