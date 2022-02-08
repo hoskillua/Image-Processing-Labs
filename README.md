@@ -55,6 +55,14 @@ Implementing a few edge detection algorithms, Sobel and laplacian of gaussian, a
 
 <br/>
 
+## Lab 6 - Morphology
+
+Implementing Erosion and Dilation with structure element that works with each image, also using Morphology to hide sensitive information in an image as shown below.
+<div align="center">
+<img src="./Lab6/img/OutPut_2.png" alt="Equation">
+</div>
+<br/>
+
 ## Lab 7 - Thresholding
 
 ### 7.1 - Background/Foreground Segmentation
