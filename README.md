@@ -24,13 +24,35 @@ Working with frequency domain and conversions between it and Spatial domain. Als
 
 Removing Salt & Paper Noise and Gaussian Noise; By Implementing Median and Gaussian filters.
 
+<br/>
+
 ## Lab 4 - Contrast Enhancement
 
 Applying grayscale transformation techniques, mainly negative transformation, contrast enhancement, gamma correction, and histogram equalization.
 
+Below are some results from applying histogram equalization.
+
+<div align="center">
+<img src="./Lab4/Highlights/output1.png" alt="Equation" style="width:600px;">
+</div>
+<div align="center">
+<img src="./Lab4/Highlights/output2.png" alt="Equation" style="width:350px;">
+<img src="./Lab4/Highlights/output3.png" alt="Equation" style="width:350px;">
+</div>
+<br/>
+<div align="center">
+<img src="./Lab4/Highlights/output4.png" alt="Equation" style="width:600px;">
+</div>
+<div align="center">
+<img src="./Lab4/Highlights/output5.png" alt="Equation" style="width:350px;">
+<img src="./Lab4/Highlights/output6.png" alt="Equation" style="width:350px;">
+</div>
+<br/>
+
 ## Lab 5 - Edge Detection
 
 Implementing a few edge detection algorithms, Sobel and laplacian of gaussian, and comparing them with scikit-image edge detectors.
+
 <br/>
 
 ## Lab 7 - Thresholding
@@ -70,4 +92,3 @@ Recursively splits image and applys thresholding to a local segment of the image
 <img src="./Lab8/Highlights/output1.png" alt="Equation" style="width:800px;">
 <img src="./Lab8/Highlights/output2.png" alt="Equation" style="width:800px;">
 </div>
-
