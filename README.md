@@ -49,6 +49,15 @@ Below are some results from applying histogram equalization.
 </div>
 <br/>
 
+### Lab 4.2 - Color Correction
+We use histogram analysis to restore the original image from an image with changed blue values.
+<div align="center">
+<img src="./Lab4/Highlights/output7.png" alt="Equation">
+<br/>
+<img src="./Lab4/Highlights/output8.png" alt="Equation">
+</div>
+<br/>
+
 ## Lab 5 - Edge Detection
 
 Implementing a few edge detection algorithms, Sobel and laplacian of gaussian, and comparing them with scikit-image edge detectors.
