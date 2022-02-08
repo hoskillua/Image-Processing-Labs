@@ -18,6 +18,14 @@ Working with frequency domain and conversions between it and Spatial domain. Als
 
 Removing Salt & Paper Noise and Gaussian Noise; By Implementing Median and Gaussian filters.
 
+## Lab 4 - Contrast Enhancement
+
+Applying grayscale transformation techniques, mainly negative transformation, contrast enhancement, gamma correction, and histogram equalization.
+
+## Lab 5 - Edge Detection
+
+Implementing a few edge detection algorithms, Sobel and laplacian of gaussian, and comparing them with scikit-image edge detectors.
+
 ## Lab 8 - Adaptive Thresholding
 
 Recursively splits image and applys thresholding to a local segment of the image. Some examples are shown below (middle image is the result of global thresholding and right one is local thresholding)
@@ -26,3 +34,4 @@ Recursively splits image and applys thresholding to a local segment of the image
 <img src="./Lab8/Highlights/output1.png" alt="Equation" style="width:800px;">
 <img src="./Lab8/Highlights/output2.png" alt="Equation" style="width:800px;">
 </div>
+
