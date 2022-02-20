@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Image Processing Library-scikit image-cyan" alt="Image Processing Library Badge" />
   </a>
 </p>
+
 # Overview
 
 This repo is a collection of all image processing assignments completed using SK-image in python in fulfillment of an academic image processing course.
